@@ -18,13 +18,17 @@
 <h2 align="center">Programming Is My Life💛</h2>
 
 <!-- Introduction -->
-<p align="start">
-  🔭 I’m currently working on <b>ASP.NET, Web API, SQL Server, React, Next.js</b><br>
-  🌱 I’m currently learning <b>how to build full-stack scalable applications using modern frontend and backend technologies.</b><br>
-  📝 I regularly practice and experiment with projects using <b>React, Next.js, and ASP.NET Core</b>.<br>
-  💬 Ask me about <b>HTML, CSS, JavaScript, TypeScript, React, Tailwind, Bootstrap, ASP.NET, Web API, SQL Server</b><br>
-  📫 Reach me at <b>hamdydkhaled59990@gmail.com</b>
-</p>
+<!--Intro start-->
+
+- 🔭 I’m currently working on **ASP.NET, Web API, SQL Server, React, Next.js**
+
+- 🌱 I’m currently learning **how to build full-stack scalable applications using modern frontend and backend technologies.**
+
+- 📝 I regularly practice and experiment with projects using **React, Next.js, and ASP.NET Core**.
+
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Tailwind, Bootstrap, ASP.NET, Web API, SQL Server**
+
+- 📫 Feel free to reach me at **hamdydkhaled59990@gmail.com**
 
 <!-- Stats and Streak -->
 <p align="center">
@@ -66,3 +70,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
