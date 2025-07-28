@@ -59,12 +59,6 @@
 <!-- Contact -->
 <h2 align="center">Connect With Me🤝</h2>
 
-<!-- Visit Counter -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6" />
-  </a>
-</p>
 
 <!-- Horizontal Divider -->
 <p align="center">
