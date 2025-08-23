@@ -11,7 +11,7 @@
 <!-- Typing Effect -->
 
 <div align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=441&lines=I%60m+fullstack+web+developer.;Using+asp.net+and+nextjs." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60m+full+stack+web+developer.++;Using+asp.net+and+react+js" alt="Typing SVG" /></a>
 </div>
 
 <!-- Subtitle -->
@@ -20,11 +20,11 @@
 <!-- Introduction -->
 <!--Intro start-->
 
-- 🔭 I’m currently working on **ASP.NET, Web API, SQL Server, React, Next.js**
+- 🔭 I’m currently working on **ASP.NET, Web API, SQL Server, React js**
 
 - 🌱 I’m currently learning **how to build full-stack scalable applications using modern frontend and backend technologies.**
 
-- 📝 I regularly practice and experiment with projects using **React, Next.js, and ASP.NET Core**.
+- 📝 I regularly practice and experiment with projects using **React js, and ASP.NET Core**.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Tailwind, Bootstrap, ASP.NET, Web API, SQL Server**
 
@@ -45,10 +45,6 @@
   </table>
 </p>
 
-<!-- Trophy -->
-<p align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
-</p>
 
 <!-- Technologies -->
 <h2 align="center">Technologies That I Know👨🏻‍💻</h2>
