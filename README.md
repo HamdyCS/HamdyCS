@@ -11,12 +11,12 @@
 <!-- Typing Effect -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60m+full+stack+web+developer.++;Using+asp.net+and+react+js" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60m+full+stack+web+developer.++;Using+asp.net+and+react+js" alt="Typing SVG" />
 </div>
 
 <!-- Subtitle -->
 <h2 align="center">Programming Is My Life💛</h2>
-
+<br> </br>
 <!-- Introduction -->
 <!--Intro start-->
 
@@ -30,13 +30,16 @@
 
 - 📫 Feel free to reach me at **hamdydkhaled59990@gmail.com**
 
+<br> </br>
 <!-- Stats and Streak -->
 <p align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" /><br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" />
+        <img src="https://github-readme-stats.vercel.app/api?username=HamdyCS&theme=dark&show_icons=true&count_private=true" /><br><br>
+        <a href="https://git.io/streak-stats" >
+            <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HamdyCS&theme=dark&card_width=467" alt="GitHub Streak" />
+        </a>
       </td>
       <td align="center">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
@@ -45,11 +48,12 @@
   </table>
 </p>
 
+<br> </br>
 
 <!-- Technologies -->
 <h2 align="center">Technologies That I Know👨🏻‍💻</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,tailwind,ts,react,next,redis,vscode,visualstudio,webstorm,postman,git,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,tailwind,ts,react,redis,vscode,visualstudio,webstorm,postman,git,github&perline=14" />
 </p>
 
 <!-- Contact -->
